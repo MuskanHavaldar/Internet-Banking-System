@@ -1,12 +1,14 @@
 # Internet-Banking-System
 A system that offers users almost every service traditionally available through a local branch.
 
-Problem Definition
+## Problem Definition
   To device a code to access your bank account and carry out financial transactions through the internet, that enhances the normal banking experience as it is quick, free and allows us to carry out a number of tasks without actually having to visit your bank or ATM. It maintains a validated transaction tracking record and history. It reduces the chances of unwanted risk factor. Passwords are protected by using encryption.
   A user can create an account by providing the name of the account holder, account number, select amount type whether it’s Saving account or Current account and providing an initial amount. For certain purpose, he/she can also check for the balance inquiry which displays the account holder’s name with account number type and amount. He/she can also check for all the account holder’s list.
 
+## Programming language
+The code of this project is in C language.
 
-Tools and Techniques (Data Structures and Algorithms)
+## Tools and Techniques (Data Structures and Algorithms)
 
 •	File Data Structure is used to minimize the access time and the storage space. We used files to store details of account holders. File Handling helps in preserving the data or information generated after running the program. There are certain programs that require a lot of input from the user, considering ours which involves internet banking we can easily access any part of the code with the help of certain commands. You can easily transfer the contents of a file from one computer system to another without having to worry about the loss of data.
 
