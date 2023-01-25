@@ -6,7 +6,7 @@
   A user can create an account by providing the name of the account holder, account number, select amount type whether it’s Saving account or Current account and providing an initial amount. For certain purpose, he/she can also check for the balance inquiry which displays the account holder’s name with account number type and amount. He/she can also check for all the account holder’s list.
 
 ## Programming language
-The code of this project is in C language.
+The code of this project is in C programming language.
 
 ## Tools and Techniques (Data Structures and Algorithms)
 
